@@ -50,8 +50,6 @@ static void game(){
         System.out.println("Игра окончена! Вы проиграли!\nПравильный ответ:" + answer);
     }
 
-
 }
-
 
 }
